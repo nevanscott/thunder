@@ -173,6 +173,9 @@ article {
   max-width: 45em;
 }
 
+#notes-nav {
+  border-top: 2px solid rgba(0,0,0,.1);
+}
 #notes-nav li {
   margin: .25em 0;
 }
@@ -188,15 +191,8 @@ table.calendar {
 .calendar td.today .date { font-weight: bold; }
 .calendar .date { overflow: hidden; }
 
-.calendar .march { background: #FFC7BB; }
-.calendar .april { background: #FFFDC7; }
-.calendar .may { background: #ADE8AF; }
-.calendar .june { background: #B7FFFD; }
-
-.calendar .march { background: #eee; }
-.calendar .april { background: #ddd; }
-.calendar .may { background: #eee; }
-.calendar .june { background: #ddd; }
+.calendar .october { background: #eee; }
+.calendar .november { background: #ddd; }
 
 .calendar .today { background: #FFFDC7; }
 
@@ -206,7 +202,7 @@ table.calendar {
   border-left: 1px solid white;
 }
 .calendar td {
-  height: 10em;
+  height: 12em;
   vertical-align: top;
   width: 20%;
   padding: 1em;
@@ -246,6 +242,7 @@ table.calendar {
     padding-bottom: 1.7em;
     position: relative;
     margin-top: 1.5em;
+    border: none;
   }
   #notes-nav:before {
     display: block;

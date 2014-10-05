@@ -1,6 +1,12 @@
+body {
+  background: #EEE;
+}
+
 #page-wrapper {
-	padding: 0 45px;
+	padding: 45px;
+	margin: 0 45px;
 	min-width: 45em;
+	background: white;
 }
 
 #main {

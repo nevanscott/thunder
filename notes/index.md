@@ -1,12 +1,12 @@
 ---
 layout: notes
 title: Notes
-permalink: /notes/
+permalink: /
 ---
 
 These notes are meant to serve as a supplement to the material we cover in class.
 
-In addition to what you'll find here, there is also [a collection on Codepen](http://codepen.io/collection/zCFys/) with examples from class.
+In addition to what you'll find here, there is also [a collection on Codepen](http://codepen.io/collection/ylGhq/) with examples from class.
 
 Additional Resources
 --------------------

@@ -1,8 +1,8 @@
-baseurl: '/fewd29'
+baseurl: ''
 permalink: /:categories/:title/
 relative_permalinks: false
 markdown: redcarpet
-future: false
+future: true
 redcarpet:
   extensions:
     - 'autolink'

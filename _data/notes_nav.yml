@@ -11,14 +11,4 @@
     - colors
     - css-placement
     - reset-and-normalize
--
-  section: JavaScript
-  notes:
-    - functions
--
-  section: jQuery
-  notes:
-    - jquery-function
-    - dom-manipulation
-    - starter-methods
-
+    - web-fonts
