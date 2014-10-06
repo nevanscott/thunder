@@ -129,7 +129,7 @@ pre, code {
 }
 
 pre {
-	
+  overflow-x: scroll;
 }
 
 code {
