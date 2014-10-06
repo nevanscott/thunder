@@ -20,7 +20,7 @@ I recommend considering the following HTML elements as you work your way through
 * `h1`, `h2`, `h3`, `h4`, `h5`, `h6` - for headings
 * `ul`, `ol`, `li` - for lists
 * `blockquote` - for blockquotes
-* `br`, `hr` - for pauses and sectioning rules
+* `br`, `hr` - for line breaks and sectioning rules
 * `em`, `strong`, `small` - for emphasis and de-emphasis
 
 You may not need all of these, but if you're getting lost I recommend looking any you aren't familiar with up using one of the references below.
