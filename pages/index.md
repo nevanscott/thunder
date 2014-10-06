@@ -4,7 +4,9 @@ title: Welcome
 permalink: /
 ---
 
-These notes are meant to serve as a supplement to the material we cover in class.
+We'll be using this space for quick access to projects and exercises for class while we explore the basics of front-end development together.
+
+The notes are meant to serve as a supplement to the material we cover in class.
 
 In addition to what you'll find here, there is also [a collection on Codepen](http://codepen.io/collection/ylGhq/) with examples from class.
 
