@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/thunder/'
 permalink: /:categories/:title/
 relative_permalinks: false
 markdown: redcarpet
