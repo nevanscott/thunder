@@ -1,0 +1,14 @@
+-
+  section: HTML
+  pages:
+    - starter-elements
+    - images
+    - filenames
+-
+  section: CSS
+  pages:
+    - starter-properties
+    - colors
+    - css-placement
+    - reset-and-normalize
+    - web-fonts
