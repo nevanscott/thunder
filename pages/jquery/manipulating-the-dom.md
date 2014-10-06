@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: page
 title: Manipulating the DOM
 permalink: /notes/dom-manipulation/
 ---

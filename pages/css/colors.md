@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: page
 title: Using Colors in CSS
 permalink: /colors/
 ---

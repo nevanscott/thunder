@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: page
 title: Working with Images
 permalink: /images/
 ---

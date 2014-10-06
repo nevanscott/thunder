@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: page
 title: The jQuery Function
 permalink: /notes/jquery-function/
 ---

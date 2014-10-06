@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: page
 title: Functions
 permalink: /notes/functions/
 ---

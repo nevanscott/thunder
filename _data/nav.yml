@@ -1,4 +1,19 @@
 -
+  section: Projects
+  pages:
+    - cookies
+    - wendy
+    - fashion
+-
+  section: Exercises
+  pages:
+    - box-model
+    - nested-selectors
+    - classes-ids
+    - page-layout
+    - traffic-light
+    - color-scheme-switcher
+-
   section: HTML
   pages:
     - starter-elements

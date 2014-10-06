@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: page
 title: Reset & Normalize
 permalink: /reset-and-normalize/
 ---

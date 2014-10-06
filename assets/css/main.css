@@ -1,7 +1,7 @@
 /* General */
 
 body {
-	font-family: 'Whitney SSm A', 'Whitney SSm B', Verdana, sans-serif;
+	font-family: 'Karla', sans-serif;
 	font-size: 87.5%;
 	line-height: 1.5;
 	padding: 0 0 10%;
@@ -24,10 +24,6 @@ a:hover, a:focus, a:active {
 .current a {
   font-weight: bold;
   text-decoration: none;
-}
-
-h1, h2, h3 {
-	font-family: 'Whitney SSm A', 'Whitney SSm B', sans-serif;
 }
 
 h1 {
@@ -141,7 +137,7 @@ code {
 	background: rgba(0,0,0,.0125);
 	border-radius: 5px;
 	padding: 1px 5px;
-	font-size: 1.2em;
+	font-size: 1.1em;
 }
 
 pre code {
@@ -240,7 +236,7 @@ table.calendar {
   #nav {
     float: right;
     width: 30%;
-    font-size: .85em;
+    font-size: .875em;
     padding-left: 2%;
     padding-bottom: 1.7em;
     position: relative;

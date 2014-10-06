@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: page
 title: Web Fonts
 permalink: /web-fonts/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: page
 title: About Programming
 permalink: /notes/programming/
 ---

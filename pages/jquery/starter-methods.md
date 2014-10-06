@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: page
 title: Starter Methods
 permalink: /notes/starter-methods/
 ---

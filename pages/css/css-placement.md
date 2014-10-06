@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: page
 title: Where CSS Goes
 permalink: /css-placement/
 ---
