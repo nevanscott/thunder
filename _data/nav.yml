@@ -9,8 +9,8 @@
   pages:
     - nested-selectors
     - box-model
-    # - classes-ids
-    # - page-layout
+    - classes-ids
+    - page-layout
     # - traffic-light
     # - color-scheme-switcher
 -
