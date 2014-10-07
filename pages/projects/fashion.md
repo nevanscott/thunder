@@ -40,4 +40,10 @@ There are a slew of grays being used on the page, including (from lightest to da
 Two-column Layout
 -----------------
 
-Check back later for more.
+The next step is to make a new version that makes use of `float` and `clear` to create a two-column layout.
+
+### Fashion Blog <small>([download]({{ site.baseurl }}/starters/fashion_blog.zip)) ([preview]({{ site.baseurl }}/projects/fashion_blog/))</small>
+
+You can use what you have from the first part as a starting point, but personally I recommend starting to make a plan from scratch, reusing only some pieces of the code from before (such as the markup for the blog posts).
+
+**Note:** Try resizing the browser while looking at the preview, the layout is designed to be flexible. Not quite responsive, but still flexible.
