@@ -11,8 +11,9 @@
     - box-model
     - classes-ids
     - page-layout
-    # - traffic-light
-    # - color-scheme-switcher
+    - responsive-wireframes
+    - traffic-light
+    - color-scheme-switcher
 -
   section: HTML
   pages:
